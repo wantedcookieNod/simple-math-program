@@ -1,0 +1,19 @@
+c:\users\shayan\documents\visual studio 2015\Projects\TPME1\TPME1\bin\Debug\TPME1.exe.config
+c:\users\shayan\documents\visual studio 2015\Projects\TPME1\TPME1\bin\Debug\TPME1.exe
+c:\users\shayan\documents\visual studio 2015\Projects\TPME1\TPME1\bin\Debug\TPME1.pdb
+c:\users\shayan\documents\visual studio 2015\Projects\TPME1\TPME1\obj\Debug\TPME1.exe
+c:\users\shayan\documents\visual studio 2015\Projects\TPME1\TPME1\obj\Debug\TPME1.pdb
+C:\Users\Shayan\Documents\Visual Studio 2015\Projects\TPME1\TPME1\obj\Debug\TPME1.csprojResolveAssemblyReference.cache
+C:\Users\Sima\Documents\Visual Studio 2015\Projects\TP\TPME1\bin\Debug\TPME1.exe.config
+C:\Users\Sima\Documents\Visual Studio 2015\Projects\TP\TPME1\obj\Debug\TPME1.exe
+C:\Users\Sima\Documents\Visual Studio 2015\Projects\TP\TPME1\obj\Debug\TPME1.pdb
+C:\Users\Sima\Documents\Visual Studio 2015\Projects\TP\TPME1\bin\Debug\TPME1.exe
+C:\Users\Sima\Documents\Visual Studio 2015\Projects\TP\TPME1\bin\Debug\TPME1.pdb
+C:\Users\Sima\Documents\Visual Studio 2015\Projects\TP\TPME1\obj\Debug\TPME1.csprojResolveAssemblyReference.cache
+F:\My codes\TP\TPME1\bin\Debug\TPME1.exe.config
+F:\My codes\TP\TPME1\bin\Debug\TPME1.exe
+F:\My codes\TP\TPME1\bin\Debug\TPME1.pdb
+F:\My codes\TP\TPME1\obj\Debug\TPME1.csprojAssemblyReference.cache
+F:\My codes\TP\TPME1\obj\Debug\TPME1.csproj.CoreCompileInputs.cache
+F:\My codes\TP\TPME1\obj\Debug\TPME1.exe
+F:\My codes\TP\TPME1\obj\Debug\TPME1.pdb
